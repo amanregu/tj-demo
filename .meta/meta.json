@@ -30,5 +30,13 @@
     "lastpushDate": "2025-02-19T08:44:20.010Z",
     "gitVersionName": "v1",
     "lastCommitUser": "aman "
+  },
+  "cc561b4b-97ca-4767-84ea-40300d57c015": {
+    "gitAppName": "test-git-sync-001",
+    "lastCommitMessage": "Version v3 Created of app test-git-sync-001",
+    "gitVersionId": "2a0177a3-e473-4b86-a925-f550fffad0e2",
+    "lastpushDate": "2025-02-19T20:19:03.341Z",
+    "gitVersionName": "v3",
+    "lastCommitUser": "aman "
   }
 }
