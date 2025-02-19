@@ -22,5 +22,13 @@
     "lastpushDate": "2025-02-13T17:59:06.203Z",
     "gitVersionName": "v1",
     "lastCommitUser": "aman "
+  },
+  "7c917ed3-3c4e-4022-868d-97d21334a568": {
+    "gitAppName": "xx123",
+    "lastCommitMessage": "App xx123 created",
+    "gitVersionId": "127f5bea-e965-48c0-a34f-d87c26fe99b1",
+    "lastpushDate": "2025-02-19T08:44:20.010Z",
+    "gitVersionName": "v1",
+    "lastCommitUser": "aman "
   }
 }
